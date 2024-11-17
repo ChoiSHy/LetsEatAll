@@ -15,7 +15,7 @@
 1. 혐오표현 감지
  - PyTorch를 통해 Deep-Learning 모델을 만들어 혐오표현을 감지해 리뷰 생성에 제한을 둠
  - beomi/KcELECTRA-base-v2022 모델을 이용해 학습함
- - 관련 파일은 https://github.com/ChoiSHy/Hating-word-Seeker.git 에서 확인할 수 있습니다.
+ - 관련 파일은 https://github.com/ChoiSHy/HaterSeeker 에서 확인할 수 있습니다.
  - 과정
    Client(Review 저장 요청)
        -->
